@@ -6,9 +6,12 @@
 
 ## Slides
 
-- [Erik Schön](Erik-Schon.pdf)
-
-- [Philippe Guenet](Philippe-Guenet.pdf)
+- [Mark Craddock](Mark-Craddock-GCATI.pdf)
 
 - [Cory Foy](https://blog.coryfoy.com/2020/07/mapcamp-2020-saving-your-business-with-wardley-maps/)
 
+- [Philippe Guenet](Philippe-Guenet.pdf)
+
+- [Alastair Moore](Alastair-Moore-Wardley-Mapping.pdf)
+
+- [Erik Schön](https://www.slideshare.net/erikschon/doctrine-or-dogma-challenge-your-assumptions-in-a-friendly-way)
